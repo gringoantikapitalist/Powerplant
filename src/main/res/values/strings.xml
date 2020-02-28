@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Powerplant</string>
+    <string name="linien_paar">Wähle ein Linienpaar</string>
+    <string name="button_send">22/23</string>
+    <string name="button_send1">24/25</string>
+    <string name="button_send2">26/27</string>
+    <string name="button_send3">28/29</string>
+
+</resources>
