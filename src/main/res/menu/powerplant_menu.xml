@@ -2,7 +2,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
   <item android:id="@+id/backact"
-      android:icon="@drawable/ic_powerplantback"
+      android:icon="@drawable/ic_add_a_photo"
       android:title="backact"
       app:showAsAction="ifRoom"/>
+
+  <item android:id="@+id/setting"
+      android:title="setting"
+      app:showAsAction="never"/>
 </menu>

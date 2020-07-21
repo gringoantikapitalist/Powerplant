@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/navi_work"
+            android:icon="@drawable/ic_drawer_navi_work"
+            android:title="Work"/>
+        <item android:id="@+id/navi_profilek"
+            android:icon="@drawable/ic_profil_drawer_navi"
+            android:title="Profile"/>
+        <item android:id="@+id/navi_game"
+            android:icon="@drawable/ic_navi_game_drawer"
+            android:title="Game"/>
+
+    </group>
+    <item android:title="communicate">
+        <menu>
+            <item android:id="@+id/navi_share"
+                android:icon="@drawable/ic_share_navi"
+                android:title="Share"/>
+            <item android:id="@+id/navi_send"
+                android:icon="@drawable/ic_send_navi"
+                android:title="Send"/>
+        </menu>
+    </item>
+</menu>
